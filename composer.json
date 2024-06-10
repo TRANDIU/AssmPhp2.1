@@ -1,0 +1,15 @@
+{
+    "name": "pc/assm-php2.1",
+    "autoload": {
+        "psr-4": {
+            "Pc\\AssmPhp21\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TRANDIU",
+            "email": "diuttph3381@fpt.edu.vn"
+        }
+    ],
+    "require": {}
+}
